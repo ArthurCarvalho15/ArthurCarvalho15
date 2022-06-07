@@ -1,5 +1,12 @@
 ## Saudações! Eu sou o Arthur Carvalho 🚀
 
+<div style="inline_block">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
+
 <div>
     <a href="https://github.com/ArthurCarvalho15">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ArthurCarvalho15&show_icons=true&theme=tokyonight&include_all_commits=true">
